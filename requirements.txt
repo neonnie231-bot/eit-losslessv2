@@ -1,0 +1,9 @@
+torch>=2.4.0
+triton>=3.0.0
+numpy>=1.24
+tqdm
+einops
+pytest
+transformers>=4.40.0
+accelerate>=0.33.0
+sentencepiece
